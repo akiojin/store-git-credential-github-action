@@ -31,7 +31,7 @@
     "@akiojin/git-credential-manager-helper": "1.0.4",
     "@akiojin/keychain": "1.0.0",
     "@commitlint/cli": "17.6.7",
-    "@commitlint/config-conventional": "17.6.7",
+    "@commitlint/config-conventional": "18.1.0",
     "@types/node": "20.4.5",
     "@types/tmp": "0.2.3",
     "@vercel/ncc": "0.36.1",
