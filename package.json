@@ -30,7 +30,7 @@
     "@actions/exec": "1.1.1",
     "@akiojin/git-credential-manager-helper": "1.0.9",
     "@akiojin/keychain": "1.0.0",
-    "@types/node": "22.15.29",
+    "@types/node": "24.0.8",
     "@types/tmp": "0.2.6",
     "@vercel/ncc": "0.38.3",
     "rimraf": "6.0.1",
