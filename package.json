@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/akiojin/store-git-credential-github-action#readme",
   "dependencies": {
-    "tmp": "0.2.3"
+    "tmp": "0.2.5"
   },
   "devDependencies": {
     "@actions/core": "1.11.1",
